@@ -6,7 +6,7 @@ We were tasked with analyzing the data on the impact of anti-cancer medications 
 Provided are the tables and figures needed for the technical report of this analysis.
 
 ## Summary Statistics
-![Mouse_Timepoints_per_Drug](mouse timepoints per drug image)
+![Mouse_Timepoints_per_Drug](https://github.com/rollernathan/Pymaceuticals_Inc_C5/blob/main/Images/Mouse_Timepoints_per_Drug.png)
 ![Summary Statistics](summary statistics image)
 
 In the analysis, Capomulin and Ramicare had over 200 observed data points, with the rest of the drug regimens around 180 observed data points, except for Propriva with only about 150 observed data points. In testing the 10 drugs, Ketapril and Naftisol had the highest tumor volume, but also the most variability as indicated in the table above. Additionally, the samples were split with slightly more observed data points of male mice compared to female as indicated in the pie graph below.
