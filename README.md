@@ -19,7 +19,7 @@ In the analysis, Capomulin and Ramicare had over 200 observed data points, with 
 We were tasked with looking at the final tumor volume for the following drug regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. In exploring this analysis, it is clear Capomulin and Ramicane have much lower final tumor volume than Infubinol and Ceftamin. This may be indicative of these drugs working better to reduce the volume of the tumor in the mice samples observed. You can also see one outlier for the Infubinol which was extremely low. This may indicate the Infubinol does work to reduce the tumor volume, but it needs to be specific mice in which this occurs.
 
 ### Individual Mouse Analysis
-![Capomulin_Treatment_of_l509_over_time](capomulin treatment)
+![Capomulin_Treatment_of_l509_over_time](Images/Capomulin_Treatment_of_l509_over_time.png)
 
 Provided above is an example to track the volume of the tumor over time for a specific drug regimen (Capomulin) and mouse (l509). A dynamic analysis can be provided to allow you to explore for any drug and mouse combination upon request.
 
