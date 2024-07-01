@@ -24,7 +24,7 @@ We were tasked with looking at the final tumor volume for the following drug reg
 Provided above is an example to track the volume of the tumor over time for a specific drug regimen (Capomulin) and mouse (l509). A dynamic analysis can be provided to allow you to explore for any drug and mouse combination upon request.
 
 ### Weight (Mass) Does Matter
-![Tumor_Volume_vs_Weight](tumor volume vs weight)
+![Tumor_Volume_vs_Weight](https://github.com/rollernathan/Pymaceuticals_Inc_C5/blob/main/Images/Tumor_Volume_vs_Weight.png)
 
 In performing analysis on the average tumor volume (in cubic millimeters) and the mass (in grams) of the mouse, there appears to be a direct correlation as mass increases, the average tumor volume increases. The correlation between mouse weight (mass) and the average tumor volume is 0.84. This makes sense as the larger the mouse, the larger the tumor. 
 
