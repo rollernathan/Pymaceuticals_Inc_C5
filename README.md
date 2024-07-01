@@ -11,7 +11,7 @@ Provided are the tables and figures needed for the technical report of this anal
 
 In the analysis, Capomulin and Ramicare had over 200 observed data points, with the rest of the drug regimens around 180 observed data points, except for Propriva with only about 150 observed data points. In testing the 10 drugs, Ketapril and Naftisol had the highest tumor volume, but also the most variability as indicated in the table above. Additionally, the samples were split with slightly more observed data points of male mice compared to female as indicated in the pie graph below.
 
-![Gender_Breakdown](gender breakdown image)
+![Gender_Breakdown](https://github.com/rollernathan/Pymaceuticals_Inc_C5/blob/main/Images/Gender_Breakdown.png)
 
 ## Drug Comparison
 ![Final_Tumor_Volume](https://github.com/rollernathan/Pymaceuticals_Inc_C5/blob/main/Images/Final_Tumor_Volume.png)
